@@ -1,0 +1,23 @@
+To build up an idea, we need to think precisely. 
+
+웹 어플리케이션을 만들면서 가장 중요한 것은 정확한 목표와 가치성을 생각해야하는데,
+전 상용화 곧, 캐쉬 플로우를 만들수 있는 웹을 구현 하고 싶습니다.
+
+아이디어 자체는 간단합니다. 
+
+Main Idea:
+	중고 및 새로운 아이템을 보다 저렴하고, 즐거운 방법으로: ‘bidding’방식으로 물품을 얻을 수 있는 웹 어플리케이션을 구현하는 것 입니다. 좀더 쉽게 설명을 하자면 eBay가 사용하고 있는 알고리즘과 비슷하다고 볼 수 있습니다.
+하지만 전혀 다른 전개로 자신이 원하는 물품을 얻을 수가 있죠.
+
+	이베이와 다른점은 bidding에 있어 이베이는 돈이 bidding에 포함되어 있지 않지만 저의 어플리케이션은 유저가 지갑을 열어야 한다는점! 자산사업이 아니기에 자급자족을 할 수 있는 circulatory system이 필요합니다. 이부분이 가장 크게 단점이 될 수 있지만, 전적으로 유저의 심리적 기호도를 반영하는 방식이기에 충분히 가능성이 있다고 봅니다.
+
+	다양한 중고 상품 및 새상품을 아주 적은 투자로 동시다발적으로 얻을 수 있는 웹 어플리케이션이기 때문에 상당히 괜찮은 사업 아이템이 될 수 있다고 봅니다.
+
+Data Structure:
+	Probability of Random Number Generator Algorithm
+	Sorting Algorithm
+	Hash-Table to look-up(Searching speed optimization)
+	Graphic Design Involved
+
+To be continued…
+
