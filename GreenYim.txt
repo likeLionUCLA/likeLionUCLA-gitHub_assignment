@@ -1,0 +1,31 @@
+*An Impropmtu Network*
+
+I would like to build a social network website that targets
+the Korean or non-Korean population currently attending
+college in the U.S.
+I have always wanted a platform that allows me to reach out
+to those that I have never had the chance to encounter.
+For instance, although our school is renowned for 
+having a dense Korean population, small groups tend to form
+and that is it; once the clique is settled, we do not see
+much moving populations thereon.
+I believe creating a community like this will nurture new
+exciting opportunities and give students a more profound
+experience during college.
+Not only that, this site can help those in dilemmatic
+situations like: having an odd number of party going to Six 
+Flags and in urgent need of one more person to tag along, or
+wanting to go to the movies but all my 
+friends are busy that night, etc.
+
+The page will consist of the following features:
+
+1. A search tab (that allows the user to choose which school
+he or she may attend)
+2. A list of several categories (Grocery shopping,
+general hangout, travel, car pool, etc.)
+3. A place where users can post and leave comments
+4. Since this is an impromptu network, users are not
+permitted to post or view what has been posted from
+midnight to 7 a.m.
+At 7 a.m., the site reopens.
